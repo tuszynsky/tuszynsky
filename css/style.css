@@ -1,0 +1,479 @@
+body{
+	font-family:Century Gothic;
+	margin:0px;
+}
+
+div#header{
+	height: 140px;
+	margin-left:350px; 
+	position: relative;
+	
+	
+}
+
+div#header{
+	position:absolute;
+}
+
+div#texto-header{
+	margin-top: -295;
+	margin-left: 1023px;
+	color:#ffffff;
+	font-size:24px;
+}
+
+div#circulo{
+	border-radius: 50%;
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    background-color: #E2CC01;
+	margin-left: 915px;
+	margin-top: 125px;
+}
+
+div#circulo2{
+	border-radius: 50%;
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    background-color: white;
+	margin-left: 935px;
+	margin-top: -11px;
+}
+
+div#circulo3{
+	border-radius: 50%;
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    background-color: white;
+	margin-left: 955;
+	margin-top: -11;
+}
+
+div#retangulo{
+	background:#E2CC01;
+	width:345px;
+	height:25px;
+	line-height:300px;
+	vertical-align:middle;
+	text-align:center;
+	margin-top:150px;
+	margin-left:400px;
+}
+
+div#retangulo2{
+	background:#E2CC01;
+	width:345px;
+	height:25px;
+	line-height:300px;
+	vertical-align:middle;
+	text-align:center;
+	margin-top:-25px;
+	margin-left:1145px;
+}
+
+div#servicos{
+	color:#272f29;
+	font-size:25px;
+	margin-left: 110px;
+	margin-top:-55px;
+
+}
+
+div#servicos2{
+	color:#272f29;
+	font-size:18px;
+	text-align:center;
+	margin-left:50px;
+	margin-top:30px;
+}
+
+div#abas{
+	margin-left:-675px;
+	margin-top:110px;
+}
+
+div#eng{
+	margin-left:900px;
+	margin-top:-255px;
+}
+div#txt-treinamento{
+	color:#272f29;
+	font-size:18px;
+	margin-left:800px;
+	margin-top:-250px;
+	
+}
+
+div#retangulo3{
+	background:#c9c9c9;
+	width:145px;
+	height:40px;
+	line-height:40px;
+	vertical-align:middle;
+	text-align:center;
+	margin-top:23px;
+	margin-left:800px;
+	text-decoration:none;
+	color:#272f29;
+}
+
+div#retangulo3 a{
+	text-decoration:none;
+	color:#272f29;
+	z-index:9999;
+	position:relative;
+}
+
+div#retangulo4{
+	background-image: radial-gradient(#F5F5F5, #c9c9c9);
+	width:1900px;
+	height:1440px;
+	line-height:40px;
+	vertical-align:middle;
+	text-align:center;
+	margin-top:370px;
+	margin-left:0px;
+}
+
+div#retangulo5{
+	background:#E2CC01;
+	width:210;
+	height:27px;
+	margin-top:200;
+	margin-left:420px;
+}
+
+div#retangulo6{
+	background:#E2CC01;
+	width:210px;
+	height:27px;
+	margin-top:-30px;
+	margin-left:1278px;
+}
+
+div#icon-servicos{
+	margin-top:-1567;
+	margin-left:400;
+}
+
+div#novidades{
+	color:#272f29;
+	font-size:27px;
+	margin-left:100px;
+	margin-top:-55;
+}
+
+div#img-1{
+	margin-top:50px;
+	margin-left:-710;
+}
+
+div#img-2{
+	margin-top:-210px;
+	margin-left:-120px;
+}
+
+div#img-3{
+	margin-top:-209px;
+	margin-left:470px;
+}
+
+div#img-4{
+	margin-top:-208px;
+	margin-left:1070px;
+}
+
+div#retangulo7{
+	background:white;
+	height:175px;
+	width:265px;
+	margin-left:403px;
+	margin-top:-12px;
+	
+}
+
+div#retangulo7titulo{
+	margin-left:420px;
+	margin-top:-160px;
+	color: #272f29;
+	font-size:18px;
+}
+
+div#retangulo7texto{
+	color:#272f29;
+	font-size:14px;
+	margin-left:420px;
+	margin-top:10px;
+}
+
+div#ler{
+	color:#E2CC01;
+	margin-left:420px;
+	margin-top:20px;
+	font-size:14px;
+	
+}
+
+div#ler a{
+	text-decoration:none;
+	color:#E2CC01;
+	z-index:9999;
+	position:relative;
+}
+
+div#retangulo8{
+	background:white;
+	height:175px;
+	width:265px;
+	margin-left:695px;
+	margin-top:-155px;
+	
+}
+
+div#retangulo8titulo{
+	margin-left:715px;
+	margin-top:-158px;
+	color: #272f29;
+	font-size:18px;
+}
+
+div#retangulo8texto{
+	color:#272f29;
+	font-size:14px;
+	margin-left:715px;
+	margin-top:10px;
+}
+
+div#ler2{
+	color:#E2CC01;
+	margin-left:715px;
+	margin-top:20px;
+	font-size:14px;
+	
+}
+
+div#ler2 a{
+	text-decoration:none;
+	color:#E2CC01;
+	z-index:9999;
+	position:relative;
+}
+
+div#retangulo9{
+	background:white;
+	height:175px;
+	width:265px;
+	margin-left:991px;
+	margin-top:-153px;
+	
+}
+
+div#retangulo9titulo{
+	margin-left:1015px;
+	margin-top:-160px;
+	color: #272f29;
+	font-size:18px;
+}
+
+div#retangulo9texto{
+	color:#272f29;
+	font-size:14px;
+	margin-left:1015px;
+	margin-top:10px;
+}
+
+div#ler3{
+	color:#E2CC01;
+	margin-left:1015px;
+	margin-top:20px;
+	font-size:14px;
+	
+}
+
+div#ler3 a{
+	text-decoration:none;
+	color:#E2CC01;
+	z-index:9999;
+	position:relative;
+}
+
+div#retangulo10{
+	background:white;
+	height:175px;
+	width:265px;
+	margin-left:1291px;
+	margin-top:-153px;
+	
+}
+
+div#retangulo10titulo{
+	margin-left:1315px;
+	margin-top:-160px;
+	color: #272f29;
+	font-size:18px;
+}
+
+div#retangulo10texto{
+	color:#272f29;
+	font-size:14px;
+	margin-left:1315px;
+	margin-top:10px;
+}
+
+div#ler4{
+	color:#E2CC01;
+	margin-left:1315px;
+	margin-top:20px;
+	font-size:14px;	
+}
+
+div#ler4 a{
+	text-decoration:none;
+	color:#E2CC01;
+	z-index:9999;
+	position:relative;
+}
+
+div#bxveja{
+		background:#c9c9c9;
+		width:320px;
+		height:40px;
+		margin-left:800px;
+		margin-top:80px;
+}
+
+div#veja{
+	color:#272f29;
+	font-size:24px;
+	margin-left:150px;
+	margin-top:-35;
+	text-decoration:none;
+}
+
+div#veja a{
+	text-decoration:none;
+	color:#272f29;
+	z-index:9999;
+	position:relative;
+}
+
+div#rodape{
+    margin-top: 100px;
+}
+
+div#logo{
+	margin-top:-250px;
+	margin-left:400px;
+}
+
+div#txtrodape{
+	color:white;
+	font-size: 15px;
+	margin-left:415px;
+	margin-top:20px;
+}
+
+div#midias{
+	color:white;
+	font-size:18px;
+	margin-left:1250px;
+	margin-top:-170px;
+}
+
+div#btn-twitter{
+	margin-left:1305px;
+	margin-top:15px;
+}
+
+div#btn-linkedin{
+	margin-left:1345px;
+	margin-top:-29px;
+}
+
+div#btn-instagran{
+	margin-left:1385px;
+	margin-top:-29px;
+}
+
+div#btn-facebook{
+	margin-left:1425px;
+	margin-top:-29px;
+}
+
+div#btn-google{
+	margin-left:1465px;
+	margin-top:-29px;
+}
+
+ul#rodape{
+	color:#E2CC01;
+	list-style-image: url("../imagens/seta.jpg");
+	margin-top:-150px;
+	margin-left:950px;
+	line-height:32px;
+	font-size:18px;
+}
+
+
+ul#rodape a{
+	text-decoration:none;
+	color:#E2CC01;
+	
+}
+
+div#endereco{
+	color:white;
+	font-size:15px;
+	text-align:right;
+	margin-right:285px;
+	margin-top:20px;
+}
+
+div#direitos{
+	color:white;
+	font-size:12px;
+	margin-left:415px;
+	margin-top:45px;
+}
+
+div#fuerza{
+	margin-top:-18px;
+	margin-left:1430px;
+}
+
+
+ul#nav{
+	list-style:none;
+	padding-left:0px;
+	display:block;
+	float:right;
+	margin-left:750px;
+	margin-bottom:2px;
+	position: absolute;
+	margin-top:-537px;
+	color:#ffffff;	
+}
+
+ul#nav li{
+	float:left;
+	margin-right:60px;
+	
+	
+
+	
+}
+
+ul#nav a{
+	text-decoration:none;
+	color:#ffffff;
+	z-index:9999;
+	position:relative;
+	
+	
+}
+
+
+
